@@ -49,7 +49,7 @@ body {
 
 .login_btn,
 .view_btn {
-  background-color: #1fc6d2; 
+  background-color: yellow; 
   padding: 0.4rem 1.8rem;    
   color: black;              
   border: none;               
@@ -59,7 +59,7 @@ body {
 
 .login_btn:hover,
 .view_btn:hover {
-  background-color: #17a2b8; 
+  background-color:black; 
   color:white;
 }
 
