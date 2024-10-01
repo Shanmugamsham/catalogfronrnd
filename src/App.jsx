@@ -2,7 +2,7 @@
 import './App.css'
 
 import React from 'react';
-import Allroutes from './Routes/allroutes';
+import Allroutes from './Routes/Allroutes';
 
 const App = () => {
   return (
